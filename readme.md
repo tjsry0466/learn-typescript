@@ -1,0 +1,2 @@
+- Run .node_modules/.bin/tsc --help 를 실행해 명령행으로 TSC 옵션을 제어할 수 있다.
+- ./node_modules/.bin/tslint --init 를 실행해 기본값으로 채워진 tslint.json을 생성할 수 있다.
