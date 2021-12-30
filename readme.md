@@ -1,2 +1,5 @@
-- Run .node_modules/.bin/tsc --help 를 실행해 명령행으로 TSC 옵션을 제어할 수 있다.
-- ./node_modules/.bin/tslint --init 를 실행해 기본값으로 채워진 tslint.json을 생성할 수 있다.
+- 명령행으로 TSC 옵션을 제어: Run .node_modules/.bin/tsc --help
+- 기본값으로 채워진 tslint.json을 생성: ./node_modules/.bin/tslint --init 
+- 타입스크립트 컴파일: ./node_modules/.bin/tsc  
+- 타입스크립트 자동 컴파일&실행: ts-node
+- 기본 뼈대제공 도구(scafolding): typescript-node-starter
